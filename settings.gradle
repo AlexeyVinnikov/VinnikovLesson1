@@ -1,0 +1,4 @@
+include ':buttons'
+include ':layouttype'
+include ':app'
+rootProject.name = "VinnikovLesson1"
