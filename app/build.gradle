@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.vinnikovlesson1"
+        applicationId "com.mirea.practice1"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
